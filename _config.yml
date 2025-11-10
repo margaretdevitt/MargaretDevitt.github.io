@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "margaretdevitt/MargaretDevitt.github.io/images/IMG_3191.jpg"
+  avatar           : "IMG_3191.jpg"
   name             : "Margaret Devitt"
   pronouns         : # example: "she/her"  
   bio              : "she/her/hers"
